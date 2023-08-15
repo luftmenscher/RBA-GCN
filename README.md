@@ -1,1 +1,1 @@
-# RGA-GCN
+# The code is currently being organized.
